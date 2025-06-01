@@ -1,10 +1,10 @@
-# 🏡 California House Price Prediction using XGBoost
+# California House Price Prediction using XGBoost
 
 This project predicts housing prices in California based on various demographic and geographic features. The model is trained using the **California Housing Dataset** from `scikit-learn`, with **XGBoost Regressor** as the core algorithm for accurate prediction.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: California Housing dataset from `sklearn.datasets`
 - **Features**: Median income, house age, average rooms, population, latitude, longitude, etc.
@@ -12,7 +12,7 @@ This project predicts housing prices in California based on various demographic 
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas & NumPy
@@ -22,7 +22,7 @@ This project predicts housing prices in California based on various demographic 
 
 ---
 
-## 🚀 Project Workflow
+## Project Workflow
 
 1. **Import Dependencies**
 2. **Load and Explore the Dataset**
@@ -36,7 +36,7 @@ This project predicts housing prices in California based on various demographic 
 
 ---
 
-## ✅ Results
+## Results
 
 - **R² Score (Training Set)**: ~0.94
 - **Mean Absolute Error (Training Set)**: ~0.19
@@ -46,7 +46,7 @@ This project predicts housing prices in California based on various demographic 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository or download the notebook.
 2. Make sure required libraries are installed (`xgboost`, `pandas`, `scikit-learn`, etc.).
@@ -54,13 +54,13 @@ This project predicts housing prices in California based on various demographic 
 
 ---
 
-## 💡 Possible Improvements
+## Possible Improvements
 
 - Trying other models (e.g., Random Forest, LightGBM)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - California Housing dataset from [scikit-learn](https://scikit-learn.org/)
 - XGBoost open-source contributors
